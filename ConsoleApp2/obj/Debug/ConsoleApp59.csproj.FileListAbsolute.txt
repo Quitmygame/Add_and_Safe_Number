@@ -1,0 +1,7 @@
+C:\Users\artem\Desktop\Новая папка\Add_and_Safe_Number-master\ConsoleApp59\bin\Debug\ConsoleApp59.exe.config
+C:\Users\artem\Desktop\Новая папка\Add_and_Safe_Number-master\ConsoleApp59\bin\Debug\ConsoleApp59.exe
+C:\Users\artem\Desktop\Новая папка\Add_and_Safe_Number-master\ConsoleApp59\bin\Debug\ConsoleApp59.pdb
+C:\Users\artem\Desktop\Новая папка\Add_and_Safe_Number-master\ConsoleApp59\obj\Debug\ConsoleApp59.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Новая папка\Add_and_Safe_Number-master\ConsoleApp59\obj\Debug\ConsoleApp59.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Новая папка\Add_and_Safe_Number-master\ConsoleApp59\obj\Debug\ConsoleApp59.exe
+C:\Users\artem\Desktop\Новая папка\Add_and_Safe_Number-master\ConsoleApp59\obj\Debug\ConsoleApp59.pdb
